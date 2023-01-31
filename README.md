@@ -1,5 +1,5 @@
 # QMSS5999-S23
-##Spatial machine learning to predict NYC real estate prices since the start of Covid.
+## Spatial machine learning to predict NYC real estate prices since the start of Covid.
 
 PLUTO: https://nycplanning.github.io/db-pluto/#/
 
