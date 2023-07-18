@@ -1,10 +1,11 @@
-# QMSS5999-S23
-## Spatial machine learning to predict NYC real estate prices since the start of Covid.
+### Random Forest modeling for mass appraisal: Predicting Manhattan real estate prices from 2017 through 2022
 
+Masters Thesis  
+Columbia University, Quantitative Methods in the Social Sciences  
+Submitted May 10, 2023  
+
+##### Data sources:
 PLUTO: https://nycplanning.github.io/db-pluto/#/
-
 Annualized sales: https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page
-
-PAD (for joining PLUTO with annualized sales via BBL): https://data.cityofnewyork.us/City-Government/Property-Address-Directory/bc8t-ecyu
 
 ![zipcolors](https://user-images.githubusercontent.com/110436840/215859539-27547ea5-f7c2-4edb-bbc0-988a6a63d442.png)
